@@ -30,7 +30,7 @@
 
 ## :coffee: Languages and Tools
 <p align="left">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+
 </p>
 
 ## :bar_chart: My GitHub Stats
